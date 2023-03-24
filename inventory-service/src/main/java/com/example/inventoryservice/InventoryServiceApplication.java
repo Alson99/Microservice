@@ -29,4 +29,5 @@ public class InventoryServiceApplication {
             inventoryRepository.save(inventory1);
         };
     }
+    
 }
